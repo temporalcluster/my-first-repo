@@ -1,0 +1,23 @@
+commit d9edbfa1e499617a4784978bba7db45bf3cece41
+Author: temporalcluster <temporalcluster@gmail.com>
+Date:   Fri Apr 20 17:37:50 2018 -0400
+
+    added file
+
+commit 3f726e99989c556381a01e594cb1932607fdf399
+Author: temporalcluster <temporalcluster@gmail.com>
+Date:   Fri Apr 20 09:49:10 2018 -0400
+
+    added gitignore
+
+commit 8c1bd075976793bbbc1a1d79e0b08b1cbf131606
+Author: temporalcluster <temporalcluster@gmail.com>
+Date:   Fri Apr 20 08:52:44 2018 -0400
+
+    added two files
+
+commit 83d456bda141d2a9010e2e2f374417ebc2b244bf
+Author: temporalcluster <temporalcluster@gmail.com>
+Date:   Thu Apr 19 23:31:10 2018 -0400
+
+    added readme.txt
